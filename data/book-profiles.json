@@ -1,0 +1,551 @@
+[
+  {
+    "id": "mans-search-for-meaning",
+    "title": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "year": 1946,
+    "rating": 5,
+    "themes": ["meaning", "suffering", "resilience", "purpose", "Holocaust", "logotherapy", "existentialism"],
+    "worldview": "Meaning can be found in any circumstance, even the worst suffering. Purpose is chosen, not given.",
+    "emotionalTone": ["profound", "harrowing", "hopeful", "contemplative"],
+    "difficulty": "accessible",
+    "pageCount": 184,
+    "bestFor": [
+      "Someone going through hardship or loss",
+      "Anyone questioning the purpose of life",
+      "Understanding resilience and human psychology",
+      "Foundational existential philosophy"
+    ],
+    "notFor": [
+      "Looking for practical self-help steps",
+      "Wanting light, casual reading"
+    ],
+    "connections": ["the-denial-of-death", "12-rules-for-life", "flow", "lost-connections"],
+    "keyInsight": "Those who have a 'why' to live can bear almost any 'how'.",
+    "bjornSays": "The most important book I've ever read. Changed how I think about suffering and meaning. Everyone should read this once.",
+    "tags": ["psychology", "philosophy", "memoir", "classic", "short"]
+  },
+  {
+    "id": "the-righteous-mind",
+    "title": "The Righteous Mind",
+    "author": "Jonathan Haidt",
+    "year": 2012,
+    "rating": 5,
+    "themes": ["morality", "politics", "tribalism", "moral psychology", "intuition", "reason"],
+    "worldview": "Moral judgments are driven by intuition, not reason. Different moral foundations explain political divides.",
+    "emotionalTone": ["eye-opening", "balanced", "intellectual", "challenging"],
+    "difficulty": "moderate",
+    "pageCount": 448,
+    "bestFor": [
+      "Understanding why people disagree politically",
+      "Moral psychology and decision-making",
+      "Anyone frustrated by political polarization",
+      "Building empathy across ideological lines"
+    ],
+    "notFor": [
+      "Looking for one side to be 'right'",
+      "Wanting simple moral frameworks"
+    ],
+    "connections": ["sapiens", "the-true-believer", "spiral-dynamics", "the-laws-of-human-nature"],
+    "keyInsight": "The elephant (intuition) drives, the rider (reason) rationalizes. We are groupish, not just selfish.",
+    "bjornSays": "Completely rewired how I see moral disagreements. Made me more empathetic and less judgmental. Essential reading.",
+    "tags": ["psychology", "politics", "science", "morality"]
+  },
+  {
+    "id": "sapiens",
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "year": 2011,
+    "rating": 5,
+    "themes": ["history", "human evolution", "culture", "religion", "capitalism", "shared myths"],
+    "worldview": "Human dominance comes from our ability to create and believe shared fictions — money, nations, religions.",
+    "emotionalTone": ["sweeping", "provocative", "accessible", "paradigm-shifting"],
+    "difficulty": "accessible",
+    "pageCount": 464,
+    "bestFor": [
+      "Big-picture understanding of humanity",
+      "Why human societies work the way they do",
+      "Questioning assumptions about progress",
+      "First serious nonfiction book"
+    ],
+    "notFor": [
+      "Wanting deep expertise on any single topic",
+      "Readers who dislike broad generalizations"
+    ],
+    "connections": ["the-righteous-mind", "the-beginning-of-infinity", "the-better-angels-of-our-nature", "spiral-dynamics"],
+    "keyInsight": "Homo sapiens rules the world because we are the only animal that can cooperate flexibly in large numbers through shared myths.",
+    "bjornSays": "The book that made me fall in love with big-picture thinking. Not always right, but always thought-provoking.",
+    "tags": ["history", "anthropology", "philosophy", "bestseller"]
+  },
+  {
+    "id": "the-denial-of-death",
+    "title": "The Denial of Death",
+    "author": "Ernest Becker",
+    "year": 1973,
+    "rating": 5,
+    "themes": ["death anxiety", "heroism", "narcissism", "existentialism", "terror management", "meaning"],
+    "worldview": "The fear of death is the primary driver of human behavior. We build heroic projects to deny our mortality.",
+    "emotionalTone": ["heavy", "profound", "unsettling", "liberating"],
+    "difficulty": "challenging",
+    "pageCount": 336,
+    "bestFor": [
+      "Deep existential exploration",
+      "Understanding human motivation at its root",
+      "Readers comfortable with heavy philosophy",
+      "After reading Frankl, Camus, or Kierkegaard"
+    ],
+    "notFor": [
+      "Casual readers",
+      "Anyone in a dark mental place",
+      "Wanting practical advice"
+    ],
+    "connections": ["mans-search-for-meaning", "civilization-and-its-discontents", "12-rules-for-life", "notes-from-underground"],
+    "keyInsight": "What we call culture is essentially a system of hero myths designed to deny death and give us a sense of cosmic significance.",
+    "bjornSays": "The hardest book I've loved. Will make you confront things you'd rather not. But you'll understand yourself and others far better.",
+    "tags": ["psychology", "philosophy", "existentialism", "Pulitzer"]
+  },
+  {
+    "id": "the-beginning-of-infinity",
+    "title": "The Beginning of Infinity",
+    "author": "David Deutsch",
+    "year": 2011,
+    "rating": 5,
+    "themes": ["epistemology", "progress", "science", "optimism", "explanation", "infinity"],
+    "worldview": "All problems are solvable given the right knowledge. Progress is unbounded. Good explanations are the engine of civilization.",
+    "emotionalTone": ["mind-expanding", "optimistic", "dense", "exhilarating"],
+    "difficulty": "challenging",
+    "pageCount": 496,
+    "bestFor": [
+      "Rethinking the nature of knowledge and progress",
+      "Rational optimism backed by deep philosophy",
+      "Scientists, builders, and thinkers",
+      "Anyone tired of doom narratives"
+    ],
+    "notFor": [
+      "Light reading",
+      "Wanting quick takeaways",
+      "Readers who prefer narrative over argument"
+    ],
+    "connections": ["sapiens", "the-better-angels-of-our-nature", "the-almanack-of-naval"],
+    "keyInsight": "Problems are inevitable. Problems are soluble. The only thing that can limit progress is a failure to seek good explanations.",
+    "bjornSays": "The most optimistic book I've ever read — and it earns every ounce of that optimism. Changed my entire worldview.",
+    "tags": ["philosophy", "science", "epistemology", "optimism"]
+  },
+  {
+    "id": "flow",
+    "title": "Flow: The Psychology of Optimal Experience",
+    "author": "Mihaly Csikszentmihalyi",
+    "year": 1990,
+    "rating": 5,
+    "themes": ["flow state", "happiness", "creativity", "psychology", "optimal experience", "engagement"],
+    "worldview": "Happiness is not something that happens to you — it's a state you create through focused engagement with challenging tasks.",
+    "emotionalTone": ["inspiring", "practical", "intellectual", "uplifting"],
+    "difficulty": "accessible",
+    "pageCount": 303,
+    "bestFor": [
+      "Understanding what makes life satisfying",
+      "Improving focus and engagement at work",
+      "The science behind being 'in the zone'",
+      "Artists, athletes, and knowledge workers"
+    ],
+    "notFor": [
+      "Wanting quick productivity hacks",
+      "Expecting a memoir or narrative"
+    ],
+    "connections": ["mans-search-for-meaning", "deep-work", "the-almanack-of-naval"],
+    "keyInsight": "The best moments in life occur when body or mind is stretched to its limits in voluntary effort to accomplish something difficult and worthwhile.",
+    "bjornSays": "The definitive book on what makes life feel worth living. Changed how I think about work, hobbies, and happiness.",
+    "tags": ["psychology", "happiness", "performance", "classic"]
+  },
+  {
+    "id": "stoner",
+    "title": "Stoner",
+    "author": "John Williams",
+    "year": 1965,
+    "rating": 5,
+    "themes": ["quiet life", "academia", "love", "duty", "resilience", "meaning in ordinary life"],
+    "worldview": "A life doesn't need to be extraordinary to be profound. Dignity is found in persistence and quiet devotion.",
+    "emotionalTone": ["melancholic", "beautiful", "quiet", "devastating"],
+    "difficulty": "accessible",
+    "pageCount": 278,
+    "bestFor": [
+      "Readers who appreciate literary fiction",
+      "Anyone feeling their life is 'ordinary'",
+      "Understanding the beauty of an unremarkable life",
+      "After reading Dostoevsky or Camus"
+    ],
+    "notFor": [
+      "Wanting action or plot twists",
+      "Looking for self-help or practical takeaways"
+    ],
+    "connections": ["mans-search-for-meaning", "notes-from-underground"],
+    "keyInsight": "The quiet, stubborn persistence of an ordinary man through an ordinary life can be the most moving story ever told.",
+    "bjornSays": "The most beautiful novel I've ever read. It wrecked me. A masterpiece about the dignity of an ordinary life.",
+    "tags": ["fiction", "literary", "classic", "quiet"]
+  },
+  {
+    "id": "the-true-believer",
+    "title": "The True Believer",
+    "author": "Eric Hoffer",
+    "year": 1951,
+    "rating": 5,
+    "themes": ["mass movements", "fanaticism", "identity", "frustration", "propaganda", "conformity"],
+    "worldview": "Mass movements attract the frustrated and self-loathing. The fanatic flees the self by merging with a holy cause.",
+    "emotionalTone": ["sharp", "prophetic", "disturbing", "concise"],
+    "difficulty": "moderate",
+    "pageCount": 176,
+    "bestFor": [
+      "Understanding radicalization and extremism",
+      "Why people join movements and cults",
+      "Political psychology",
+      "Anyone watching populism rise"
+    ],
+    "notFor": [
+      "Wanting nuance about specific movements",
+      "Looking for solutions, not diagnosis"
+    ],
+    "connections": ["the-righteous-mind", "sapiens", "spiral-dynamics"],
+    "keyInsight": "A mass movement attracts and holds a following not by doctrine but by the refuge it offers from the anxieties of an empty life.",
+    "bjornSays": "Written in 1951, reads like it was written yesterday. Eerily accurate about why people radicalize. Short, dense, brilliant.",
+    "tags": ["psychology", "politics", "sociology", "classic", "short"]
+  },
+  {
+    "id": "top-five-regrets-of-the-dying",
+    "title": "The Top Five Regrets of the Dying",
+    "author": "Bronnie Ware",
+    "year": 2012,
+    "rating": 5,
+    "themes": ["death", "regret", "authenticity", "courage", "relationships", "palliative care"],
+    "worldview": "The dying consistently regret the same things: not living authentically, working too hard, suppressing feelings, losing touch with friends, and not choosing happiness.",
+    "emotionalTone": ["moving", "sobering", "gentle", "life-changing"],
+    "difficulty": "accessible",
+    "pageCount": 299,
+    "bestFor": [
+      "Anyone at a life crossroads",
+      "Perspective on what truly matters",
+      "Motivation to live more authentically",
+      "Pairs well with Stoic philosophy"
+    ],
+    "notFor": [
+      "Wanting rigorous research",
+      "Anyone recently bereaved (may be too raw)"
+    ],
+    "connections": ["mans-search-for-meaning", "the-denial-of-death", "12-rules-for-life"],
+    "keyInsight": "The number one regret: 'I wish I'd had the courage to live a life true to myself, not the life others expected of me.'",
+    "bjornSays": "Simple but devastating. Read it once a year. It realigns your priorities like nothing else.",
+    "tags": ["memoir", "self-help", "death", "wisdom"]
+  },
+  {
+    "id": "notes-from-underground",
+    "title": "Notes from Underground",
+    "author": "Fyodor Dostoevsky",
+    "year": 1864,
+    "rating": 5,
+    "themes": ["alienation", "free will", "rationality", "spite", "consciousness", "modernity"],
+    "worldview": "Humans are irrational, spiteful, and will act against their own interest just to assert free will. Reason alone cannot explain us.",
+    "emotionalTone": ["dark", "uncomfortable", "brilliant", "claustrophobic"],
+    "difficulty": "moderate",
+    "pageCount": 136,
+    "bestFor": [
+      "Entry point to Dostoevsky",
+      "Understanding existentialism's roots",
+      "Anyone who feels like an outsider",
+      "Philosophy of consciousness and free will"
+    ],
+    "notFor": [
+      "Wanting feel-good reading",
+      "Expecting a traditional plot"
+    ],
+    "connections": ["the-denial-of-death", "stoner", "civilization-and-its-discontents"],
+    "keyInsight": "Man will deliberately go mad in order to be free of the tyranny of reason.",
+    "bjornSays": "The first great existential scream. Short, furious, and uncomfortably relatable. Dostoevsky saw us coming 160 years ago.",
+    "tags": ["fiction", "philosophy", "existentialism", "classic", "short"]
+  },
+  {
+    "id": "among-the-thugs",
+    "title": "Among the Thugs",
+    "author": "Bill Buford",
+    "year": 1991,
+    "rating": 5,
+    "themes": ["violence", "tribalism", "mob psychology", "football hooliganism", "masculinity", "crowd behavior"],
+    "worldview": "Violence is intoxicating. The crowd experience unlocks something primal that civilization only barely suppresses.",
+    "emotionalTone": ["visceral", "thrilling", "disturbing", "honest"],
+    "difficulty": "accessible",
+    "pageCount": 317,
+    "bestFor": [
+      "Understanding mob mentality and violence",
+      "Immersive journalism at its best",
+      "The dark side of tribalism",
+      "Football culture and masculinity"
+    ],
+    "notFor": [
+      "Sensitive to graphic violence",
+      "Wanting academic analysis"
+    ],
+    "connections": ["the-true-believer", "the-righteous-mind", "sapiens"],
+    "keyInsight": "The violence isn't the point — the belonging is. The violence is just the price of admission to something ecstatic.",
+    "bjornSays": "Jaw-dropping gonzo journalism. Buford embedded with English football hooligans and came back with one of the most honest books about human nature I've read.",
+    "tags": ["journalism", "sociology", "sports", "violence"]
+  },
+  {
+    "id": "lost-connections",
+    "title": "Lost Connections",
+    "author": "Johann Hari",
+    "year": 2018,
+    "rating": 5,
+    "themes": ["depression", "connection", "meaning", "society", "mental health", "loneliness"],
+    "worldview": "Depression and anxiety are largely caused by disconnection — from people, meaning, nature, and status — not just brain chemistry.",
+    "emotionalTone": ["compassionate", "revelatory", "hopeful", "personal"],
+    "difficulty": "accessible",
+    "pageCount": 321,
+    "bestFor": [
+      "Understanding depression beyond the chemical model",
+      "Anyone feeling disconnected or lost",
+      "Mental health without the clinical jargon",
+      "Societal causes of unhappiness"
+    ],
+    "notFor": [
+      "Wanting clinical/medical advice",
+      "Already deep into psychiatric literature"
+    ],
+    "connections": ["mans-search-for-meaning", "when-the-body-says-no", "flow"],
+    "keyInsight": "You're not broken. Your pain makes sense. Depression is often a signal that core human needs are unmet.",
+    "bjornSays": "The book I wish existed when I was younger. Reframes depression from 'broken brain' to 'unmet needs.' Powerful and humane.",
+    "tags": ["psychology", "mental-health", "society", "science"]
+  },
+  {
+    "id": "the-laws-of-human-nature",
+    "title": "The Laws of Human Nature",
+    "author": "Robert Greene",
+    "year": 2018,
+    "rating": 5,
+    "themes": ["human nature", "psychology", "power", "narcissism", "empathy", "influence", "self-awareness"],
+    "worldview": "Human behavior follows predictable patterns rooted in evolution. Understanding these patterns is the key to mastering yourself and navigating others.",
+    "emotionalTone": ["strategic", "deep", "unflinching", "empowering"],
+    "difficulty": "moderate",
+    "pageCount": 624,
+    "bestFor": [
+      "Deep understanding of why people behave as they do",
+      "Self-awareness and emotional mastery",
+      "Leadership and interpersonal dynamics",
+      "After reading 48 Laws of Power"
+    ],
+    "notFor": [
+      "Short attention spans (it's 600+ pages)",
+      "Wanting warm, fuzzy psychology"
+    ],
+    "connections": ["the-righteous-mind", "the-true-believer", "the-denial-of-death", "sapiens"],
+    "keyInsight": "We are all more irrational, envious, and narcissistic than we realize. Self-awareness begins with accepting this.",
+    "bjornSays": "Greene's masterpiece. Dense but worth every page. Made me understand people — including myself — at a much deeper level.",
+    "tags": ["psychology", "self-improvement", "strategy", "human-nature"]
+  },
+  {
+    "id": "12-rules-for-life",
+    "title": "12 Rules for Life",
+    "author": "Jordan B. Peterson",
+    "year": 2018,
+    "rating": 5,
+    "themes": ["responsibility", "meaning", "order", "chaos", "mythology", "suffering", "growth"],
+    "worldview": "Life is suffering. Meaning is the antidote. Take responsibility, stand up straight, and aim at the highest good you can conceive.",
+    "emotionalTone": ["intense", "challenging", "mythological", "personal"],
+    "difficulty": "moderate",
+    "pageCount": 409,
+    "bestFor": [
+      "Young men looking for direction",
+      "Understanding the role of responsibility in meaning",
+      "Mythology and psychology intersecting",
+      "Anyone feeling lost or nihilistic"
+    ],
+    "notFor": [
+      "Already dismissive of Peterson (you won't engage honestly)",
+      "Wanting light, easy reading"
+    ],
+    "connections": ["mans-search-for-meaning", "the-denial-of-death", "top-five-regrets-of-the-dying"],
+    "keyInsight": "Set your house in perfect order before you criticize the world. Pursue meaning, not happiness.",
+    "bjornSays": "Love him or hate him, this book genuinely helps people. The chapters on suffering and meaning are world-class.",
+    "tags": ["psychology", "philosophy", "self-improvement", "mythology"]
+  },
+  {
+    "id": "the-almanack-of-naval",
+    "title": "The Almanack of Naval Ravikant",
+    "author": "Eric Jorgenson",
+    "year": 2020,
+    "rating": 5,
+    "themes": ["wealth", "happiness", "leverage", "philosophy", "entrepreneurship", "wisdom"],
+    "worldview": "Seek wealth through leverage (code, media, capital), not time. Happiness is a skill, not a destination. Think from first principles.",
+    "emotionalTone": ["clear", "liberating", "practical", "philosophical"],
+    "difficulty": "accessible",
+    "pageCount": 242,
+    "bestFor": [
+      "Entrepreneurs and builders",
+      "Understanding wealth creation in the internet age",
+      "Philosophical approach to happiness",
+      "Anyone who likes distilled wisdom"
+    ],
+    "notFor": [
+      "Wanting step-by-step business advice",
+      "Deep academic philosophy"
+    ],
+    "connections": ["the-beginning-of-infinity", "flow", "sapiens"],
+    "keyInsight": "Arm yourself with specific knowledge, accountability, and leverage. Code and media are permissionless leverage.",
+    "bjornSays": "The most quotable book I've read. Naval's thinking on wealth and happiness is razor-sharp. Free to read online, too.",
+    "tags": ["business", "philosophy", "wisdom", "startup"]
+  },
+  {
+    "id": "when-the-body-says-no",
+    "title": "When the Body Says No",
+    "author": "Gabor Maté",
+    "year": 2003,
+    "rating": 5,
+    "themes": ["stress", "disease", "trauma", "mind-body connection", "repression", "autoimmune"],
+    "worldview": "Chronic stress and emotional repression don't just make you unhappy — they make you sick. The body keeps the score.",
+    "emotionalTone": ["eye-opening", "sobering", "compassionate", "scientific"],
+    "difficulty": "accessible",
+    "pageCount": 320,
+    "bestFor": [
+      "Understanding the stress-disease connection",
+      "People-pleasers and chronic overachievers",
+      "Anyone with autoimmune or chronic illness",
+      "Gabor Maté's best entry point"
+    ],
+    "notFor": [
+      "Wanting a quick fix for health issues",
+      "Skeptical of mind-body connections"
+    ],
+    "connections": ["lost-connections", "mans-search-for-meaning", "the-denial-of-death"],
+    "keyInsight": "When we chronically repress our emotions to maintain relationships or meet expectations, the body eventually says no for us — through illness.",
+    "bjornSays": "Maté changed how I think about health. This book connects the dots between emotional patterns and physical disease. Essential.",
+    "tags": ["health", "psychology", "science", "trauma"]
+  },
+  {
+    "id": "determined",
+    "title": "Determined: A Science of Life Without Free Will",
+    "author": "Robert Sapolsky",
+    "year": 2023,
+    "rating": 5,
+    "themes": ["free will", "determinism", "neuroscience", "justice", "behavior", "biology"],
+    "worldview": "Free will is an illusion. Every action is the result of biology, environment, and prior causes. This should make us more compassionate, not less.",
+    "emotionalTone": ["provocative", "rigorous", "humbling", "compassionate"],
+    "difficulty": "challenging",
+    "pageCount": 528,
+    "bestFor": [
+      "The free will debate, taken seriously",
+      "Neuroscience of behavior and decision-making",
+      "After reading Behave by Sapolsky",
+      "Anyone interested in criminal justice reform"
+    ],
+    "notFor": [
+      "Wanting a comforting conclusion",
+      "Light reading"
+    ],
+    "connections": ["notes-from-underground", "the-righteous-mind", "sapiens"],
+    "keyInsight": "You can't show me a neuron, hormone, gene, or childhood experience that caused a behavior AND also claim the person 'freely chose' it.",
+    "bjornSays": "Sapolsky's magnum opus. Destroyed my belief in free will and somehow made me a kinder person. Dense but transformative.",
+    "tags": ["neuroscience", "philosophy", "science", "free-will"]
+  },
+  {
+    "id": "civilization-and-its-discontents",
+    "title": "Civilization and Its Discontents",
+    "author": "Sigmund Freud",
+    "year": 1930,
+    "rating": 5,
+    "themes": ["civilization", "instinct", "aggression", "guilt", "repression", "happiness"],
+    "worldview": "Civilization requires the suppression of our deepest instincts. The price of social order is individual unhappiness.",
+    "emotionalTone": ["dark", "brilliant", "pessimistic", "foundational"],
+    "difficulty": "moderate",
+    "pageCount": 127,
+    "bestFor": [
+      "Understanding the tension between individual and society",
+      "Foundational psychoanalytic thinking",
+      "Philosophy of civilization",
+      "Pairs with Dostoevsky and Becker"
+    ],
+    "notFor": [
+      "Wanting modern, evidence-based psychology",
+      "Looking for solutions"
+    ],
+    "connections": ["the-denial-of-death", "notes-from-underground", "sapiens"],
+    "keyInsight": "The price we pay for civilization is a perpetual sense of guilt and the renunciation of instinctual desires.",
+    "bjornSays": "Freud at his most accessible and profound. Short, punchy, and still relevant 95 years later.",
+    "tags": ["psychology", "philosophy", "classic", "short"]
+  },
+  {
+    "id": "the-better-angels-of-our-nature",
+    "title": "The Better Angels of Our Nature",
+    "author": "Steven Pinker",
+    "year": 2011,
+    "rating": 5,
+    "themes": ["violence", "progress", "history", "reason", "empathy", "civilization"],
+    "worldview": "Violence has declined dramatically over human history. Reason, empathy, commerce, and the state have made us more peaceful.",
+    "emotionalTone": ["data-heavy", "optimistic", "sweeping", "convincing"],
+    "difficulty": "challenging",
+    "pageCount": 832,
+    "bestFor": [
+      "Evidence-based optimism about humanity",
+      "Understanding the decline of violence",
+      "Big-picture history with data",
+      "Counter-narrative to doom and gloom"
+    ],
+    "notFor": [
+      "Short attention spans (800+ pages)",
+      "Wanting quick reads"
+    ],
+    "connections": ["sapiens", "the-beginning-of-infinity", "the-righteous-mind"],
+    "keyInsight": "We are living in the most peaceful era in human history, and the data overwhelmingly supports this despite what the news suggests.",
+    "bjornSays": "800 pages of proof that the world is getting better. Dense but essential. Pinker at his absolute best.",
+    "tags": ["history", "psychology", "science", "optimism"]
+  },
+  {
+    "id": "spiral-dynamics",
+    "title": "Spiral Dynamics",
+    "author": "Don Edward Beck & Christopher Cowan",
+    "year": 1996,
+    "rating": 5,
+    "themes": ["developmental psychology", "values", "culture", "evolution", "worldviews", "consciousness"],
+    "worldview": "Human consciousness evolves through a spiral of value systems (vMemes), each responding to life conditions. No stage is 'better' — but understanding the spiral explains almost everything about cultural conflict.",
+    "emotionalTone": ["mind-expanding", "systematic", "complex", "revelatory"],
+    "difficulty": "challenging",
+    "pageCount": 352,
+    "bestFor": [
+      "Understanding cultural and political conflict at a deep level",
+      "Developmental psychology frameworks",
+      "Leaders managing diverse teams/societies",
+      "After reading The Righteous Mind"
+    ],
+    "notFor": [
+      "Wanting simple answers",
+      "Skeptical of stage-based developmental models"
+    ],
+    "connections": ["the-righteous-mind", "sapiens", "the-true-believer"],
+    "keyInsight": "People don't just disagree — they literally operate from different value systems that see the world in fundamentally incompatible ways.",
+    "bjornSays": "The most underrated book on this list. Once you see the spiral, you can't unsee it. Explains cultural clashes better than anything else I've found.",
+    "tags": ["psychology", "philosophy", "culture", "developmental"]
+  },
+  {
+    "id": "atlas-shrugged",
+    "title": "Atlas Shrugged",
+    "author": "Ayn Rand",
+    "year": 1957,
+    "rating": 5,
+    "themes": ["individualism", "capitalism", "objectivism", "freedom", "production", "philosophy"],
+    "worldview": "The individual mind is the engine of civilization. When the productive are punished and the mediocre rewarded, society collapses.",
+    "emotionalTone": ["epic", "polarizing", "intense", "philosophical"],
+    "difficulty": "challenging",
+    "pageCount": 1168,
+    "bestFor": [
+      "Philosophy of individualism and capitalism",
+      "Epic, idea-driven fiction",
+      "Entrepreneurs and builders",
+      "Understanding libertarian thought"
+    ],
+    "notFor": [
+      "Wanting subtle, literary fiction",
+      "Turned off by strong ideological viewpoints",
+      "Short attention spans"
+    ],
+    "connections": ["the-almanack-of-naval", "the-beginning-of-infinity"],
+    "keyInsight": "The question isn't who is going to let me; it's who is going to stop me.",
+    "bjornSays": "Polarizing as hell, but undeniably powerful. Rand's vision of the individual against the collective stays with you whether you agree or not.",
+    "tags": ["fiction", "philosophy", "capitalism", "epic"]
+  }
+]

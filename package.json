@@ -1,0 +1,38 @@
+{
+  "name": "booklab-mcp",
+  "version": "0.2.0",
+  "description": "BookLab by Bjorn — MCP server for nonfiction book recommendations. 10+ years of human-curated reviews, structured for AI agents.",
+  "type": "module",
+  "main": "server.js",
+  "bin": {
+    "booklab-mcp": "server.js"
+  },
+  "files": [
+    "server.js",
+    "data/book-profiles.json",
+    "README.md"
+  ],
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "books",
+    "nonfiction",
+    "recommendations",
+    "ai-agents",
+    "booklab",
+    "claude"
+  ],
+  "author": "Björn Röjgren <poorbjorn@gmail.com> (https://booklabbybjorn.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/booklabbybjorn/booklab-mcp"
+  },
+  "homepage": "https://booklabai.pages.dev",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0"
+  }
+}
