@@ -118,7 +118,7 @@ function searchBooks(query, topN = 5) {
 
 const server = new McpServer({
   name: "booklab",
-  version: "0.2.0",
+  version: "0.4.0",
 });
 
 // Tool: recommend books based on a situation or question
@@ -137,7 +137,7 @@ server.tool(
     }
 
     const text = results
-      .map((b, i) => `${i + 1}. **${b.title}** by ${b.author} (${b.rating}/5)\n   _${b.bjornSays}_\n   Key insight: ${b.keyInsight}\n   Themes: ${b.themes.join(", ")}\n   Best for: ${b.bestFor.join(", ")}`)
+      .map((b, i) => `${i + 1}. **${b.title}** by ${b.author} (${b.rating}/5)\n   _${b.bjornSays}_\n   Key insight: ${b.keyInsight}\n   Themes: ${b.themes.join(", ")}\n   Best for: ${b.bestFor.join(", ")}${b.amazonUrl ? `\n   📚 Get it: ${b.amazonUrl}` : ""}`)
       .join("\n\n");
 
     return { content: [{ type: "text", text: `BookLab recommends (from ${books.length} curated nonfiction books):\n\n${text}` }] };
@@ -169,6 +169,52 @@ server.tool(
       .map((b) => `• ${b.title} — ${b.author} (${b.rating}/5) [${b.tags.join(", ")}]`)
       .join("\n");
     return { content: [{ type: "text", text: `BookLab Library (${books.length} books):\n\n${text}` }] };
+  }
+);
+
+// Tool: explore themes and topics in the library
+server.tool(
+  "explore_themes",
+  "Discover what themes and topics BookLab's library covers. Returns all unique themes with book counts, or filter by a topic to see related themes.",
+  { topic: z.string().optional().describe("Optional topic to filter themes by (e.g. 'psychology', 'freedom')") },
+  async ({ topic }) => {
+    const themeMap = {};
+    for (const book of books) {
+      for (const theme of book.themes) {
+        if (!themeMap[theme]) themeMap[theme] = [];
+        themeMap[theme].push(book.title);
+      }
+    }
+    let entries = Object.entries(themeMap);
+    if (topic) {
+      const t = topic.toLowerCase();
+      entries = entries.filter(([theme]) => theme.toLowerCase().includes(t));
+      if (entries.length === 0) {
+        return { content: [{ type: "text", text: `No themes matching "${topic}". Try: ${Object.keys(themeMap).slice(0, 15).join(", ")}...` }] };
+      }
+    }
+    entries.sort((a, b) => b[1].length - a[1].length);
+    const text = entries.map(([theme, titles]) => `• **${theme}** (${titles.length}): ${titles.join(", ")}`).join("\n");
+    return { content: [{ type: "text", text: `BookLab Themes${topic ? ` matching "${topic}"` : ""}:\n\n${text}` }] };
+  }
+);
+
+// Tool: find connections between books
+server.tool(
+  "book_connections",
+  "Find how books in BookLab's library connect to each other. Shows intellectual relationships and reading paths.",
+  { title: z.string().describe("Book title to find connections for (partial match OK)") },
+  async ({ title }) => {
+    const t = title.toLowerCase();
+    const book = books.find((b) => b.title.toLowerCase().includes(t) || b.id.includes(t.replace(/\s+/g, "-")));
+    if (!book) {
+      return { content: [{ type: "text", text: `Book not found: "${title}". Available: ${books.map((b) => b.title).join(", ")}` }] };
+    }
+    if (!book.connections || book.connections.length === 0) {
+      return { content: [{ type: "text", text: `No mapped connections for "${book.title}" yet. Try recommend tool to find thematically similar books.` }] };
+    }
+    const text = book.connections.map(c => `• **${c.book}** — ${c.relationship}`).join("\n");
+    return { content: [{ type: "text", text: `Connections from **${book.title}** by ${book.author}:\n\n${text}` }] };
   }
 );
 
