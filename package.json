@@ -1,6 +1,6 @@
 {
   "name": "booklab-mcp",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "BookLab by Bjorn — MCP server for nonfiction book recommendations. 10+ years of human-curated reviews, structured for AI agents.",
   "type": "module",
   "main": "server.js",
@@ -25,7 +25,7 @@
     "booklab",
     "claude"
   ],
-  "author": "Björn Röjgren <poorbjorn@gmail.com> (https://booklabbybjorn.com)",
+  "author": "Bjorn R <poorbjorn@gmail.com> (https://booklabbybjorn.com)",
   "license": "MIT",
   "repository": {
     "type": "git",

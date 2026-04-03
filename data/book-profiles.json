@@ -115,7 +115,7 @@
       "capitalism",
       "shared myths"
     ],
-    "worldview": "Human dominance comes from our ability to create and believe shared fictions — money, nations, religions.",
+    "worldview": "Human dominance comes from our ability to create and believe shared fictions \u2014 money, nations, religions.",
     "emotionalTone": [
       "sweeping",
       "provocative",
@@ -242,7 +242,7 @@
       "the-almanack-of-naval"
     ],
     "keyInsight": "Problems are inevitable. Problems are soluble. The only thing that can limit progress is a failure to seek good explanations.",
-    "bjornSays": "The most optimistic book I've ever read — and it earns every ounce of that optimism. Changed my entire worldview.",
+    "bjornSays": "The most optimistic book I've ever read \u2014 and it earns every ounce of that optimism. Changed my entire worldview.",
     "tags": [
       "philosophy",
       "science",
@@ -266,7 +266,7 @@
       "optimal experience",
       "engagement"
     ],
-    "worldview": "Happiness is not something that happens to you — it's a state you create through focused engagement with challenging tasks.",
+    "worldview": "Happiness is not something that happens to you \u2014 it's a state you create through focused engagement with challenging tasks.",
     "emotionalTone": [
       "inspiring",
       "practical",
@@ -536,7 +536,7 @@
       "the-righteous-mind",
       "sapiens"
     ],
-    "keyInsight": "The violence isn't the point — the belonging is. The violence is just the price of admission to something ecstatic.",
+    "keyInsight": "The violence isn't the point \u2014 the belonging is. The violence is just the price of admission to something ecstatic.",
     "bjornSays": "Jaw-dropping gonzo journalism. Buford embedded with English football hooligans and came back with one of the most honest books about human nature I've read.",
     "tags": [
       "journalism",
@@ -561,7 +561,7 @@
       "mental health",
       "loneliness"
     ],
-    "worldview": "Depression and anxiety are largely caused by disconnection — from people, meaning, nature, and status — not just brain chemistry.",
+    "worldview": "Depression and anxiety are largely caused by disconnection \u2014 from people, meaning, nature, and status \u2014 not just brain chemistry.",
     "emotionalTone": [
       "compassionate",
       "revelatory",
@@ -637,7 +637,7 @@
       "sapiens"
     ],
     "keyInsight": "We are all more irrational, envious, and narcissistic than we realize. Self-awareness begins with accepting this.",
-    "bjornSays": "Greene's masterpiece. Dense but worth every page. Made me understand people — including myself — at a much deeper level.",
+    "bjornSays": "Greene's masterpiece. Dense but worth every page. Made me understand people \u2014 including myself \u2014 at a much deeper level.",
     "tags": [
       "psychology",
       "self-improvement",
@@ -749,7 +749,7 @@
   {
     "id": "when-the-body-says-no",
     "title": "When the Body Says No",
-    "author": "Gabor Maté",
+    "author": "Gabor Mat\u00e9",
     "year": 2003,
     "rating": 5,
     "themes": [
@@ -760,7 +760,7 @@
       "repression",
       "autoimmune"
     ],
-    "worldview": "Chronic stress and emotional repression don't just make you unhappy — they make you sick. The body keeps the score.",
+    "worldview": "Chronic stress and emotional repression don't just make you unhappy \u2014 they make you sick. The body keeps the score.",
     "emotionalTone": [
       "eye-opening",
       "sobering",
@@ -773,7 +773,7 @@
       "Understanding the stress-disease connection",
       "People-pleasers and chronic overachievers",
       "Anyone with autoimmune or chronic illness",
-      "Gabor Maté's best entry point"
+      "Gabor Mat\u00e9's best entry point"
     ],
     "notFor": [
       "Wanting a quick fix for health issues",
@@ -784,8 +784,8 @@
       "mans-search-for-meaning",
       "the-denial-of-death"
     ],
-    "keyInsight": "When we chronically repress our emotions to maintain relationships or meet expectations, the body eventually says no for us — through illness.",
-    "bjornSays": "Maté changed how I think about health. This book connects the dots between emotional patterns and physical disease. Essential.",
+    "keyInsight": "When we chronically repress our emotions to maintain relationships or meet expectations, the body eventually says no for us \u2014 through illness.",
+    "bjornSays": "Mat\u00e9 changed how I think about health. This book connects the dots between emotional patterns and physical disease. Essential.",
     "tags": [
       "health",
       "psychology",
@@ -956,7 +956,7 @@
       "worldviews",
       "consciousness"
     ],
-    "worldview": "Human consciousness evolves through a spiral of value systems (vMemes), each responding to life conditions. No stage is 'better' — but understanding the spiral explains almost everything about cultural conflict.",
+    "worldview": "Human consciousness evolves through a spiral of value systems (vMemes), each responding to life conditions. No stage is 'better' \u2014 but understanding the spiral explains almost everything about cultural conflict.",
     "emotionalTone": [
       "mind-expanding",
       "systematic",
@@ -980,7 +980,7 @@
       "sapiens",
       "the-true-believer"
     ],
-    "keyInsight": "People don't just disagree — they literally operate from different value systems that see the world in fundamentally incompatible ways.",
+    "keyInsight": "People don't just disagree \u2014 they literally operate from different value systems that see the world in fundamentally incompatible ways.",
     "bjornSays": "The most underrated book on this list. Once you see the spiral, you can't unsee it. Explains cultural clashes better than anything else I've found.",
     "tags": [
       "psychology",
@@ -1039,5 +1039,1057 @@
     ],
     "asin": "0451191145",
     "amazonUrl": "https://www.amazon.com/dp/0451191145?tag=poorbjorn-20"
+  },
+  {
+    "id": "the-stranger-camus",
+    "title": "The Stranger",
+    "author": "Albert Camus",
+    "year": 1942,
+    "rating": 5,
+    "themes": [
+      "absurdism",
+      "alienation",
+      "indifference",
+      "death",
+      "authenticity",
+      "existentialism"
+    ],
+    "worldview": "The universe is indifferent. Meaning is not given \u2014 and that's liberating, not tragic.",
+    "emotionalTone": [
+      "detached",
+      "unsettling",
+      "contemplative",
+      "stark"
+    ],
+    "difficulty": "accessible",
+    "pageCount": 123,
+    "bestFor": [
+      "Introduction to existentialist fiction",
+      "Understanding Camus and absurdism",
+      "Short but deeply impactful reads",
+      "Anyone questioning social conventions"
+    ],
+    "notFor": [
+      "Wanting warm, uplifting stories",
+      "Preferring plot-driven narratives"
+    ],
+    "connections": [
+      "notes-from-underground",
+      "mans-search-for-meaning",
+      "the-denial-of-death"
+    ],
+    "keyInsight": "Meursault's crime isn't murder \u2014 it's refusing to play society's emotional games.",
+    "bjornSays": "One of the most unsettling books I've read. Camus nails the feeling of being an outsider looking at the world and thinking: why does everyone pretend?",
+    "tags": [
+      "fiction",
+      "philosophy",
+      "classic",
+      "short",
+      "existentialism"
+    ],
+    "asin": "0679720200",
+    "amazonUrl": "https://www.amazon.com/dp/0679720200?tag=poorbjorn-20"
+  },
+  {
+    "id": "escape-from-freedom",
+    "title": "Escape from Freedom",
+    "author": "Erich Fromm",
+    "year": 1941,
+    "rating": 5,
+    "themes": [
+      "freedom",
+      "authoritarianism",
+      "conformity",
+      "individuality",
+      "psychology",
+      "society"
+    ],
+    "worldview": "Freedom is terrifying. Most people will trade it for belonging, certainty, or submission to authority.",
+    "emotionalTone": [
+      "revelatory",
+      "sobering",
+      "intellectual",
+      "urgent"
+    ],
+    "difficulty": "moderate",
+    "pageCount": 301,
+    "bestFor": [
+      "Understanding why people follow authoritarian leaders",
+      "Psychology of conformity and individuality",
+      "Anyone interested in political psychology",
+      "Pairing with The True Believer"
+    ],
+    "notFor": [
+      "Looking for quick, practical advice",
+      "Wanting light reading"
+    ],
+    "connections": [
+      "the-true-believer",
+      "spiral-dynamics",
+      "the-righteous-mind",
+      "civilization-and-its-discontents"
+    ],
+    "keyInsight": "Modern freedom created isolation and anxiety \u2014 and people will eagerly surrender that freedom to escape the burden.",
+    "bjornSays": "Fromm explains the 20th century better than any historian. Why do free people choose tyrants? Because freedom is lonely.",
+    "tags": [
+      "psychology",
+      "philosophy",
+      "politics",
+      "classic"
+    ],
+    "asin": "0805031499",
+    "amazonUrl": "https://www.amazon.com/dp/0805031499?tag=poorbjorn-20"
+  },
+  {
+    "id": "a-guide-to-the-good-life",
+    "title": "A Guide to the Good Life",
+    "author": "William B. Irvine",
+    "year": 2008,
+    "rating": 4,
+    "themes": [
+      "stoicism",
+      "tranquility",
+      "desire",
+      "negative visualization",
+      "philosophy",
+      "practical wisdom"
+    ],
+    "worldview": "Ancient Stoic techniques can be applied to modern life to achieve lasting tranquility.",
+    "emotionalTone": [
+      "calm",
+      "practical",
+      "wise",
+      "accessible"
+    ],
+    "difficulty": "accessible",
+    "pageCount": 314,
+    "bestFor": [
+      "First book on Stoicism",
+      "Practical philosophy for daily life",
+      "Reducing anxiety about things you can't control",
+      "Pairing with Letters from a Stoic"
+    ],
+    "notFor": [
+      "Already deep into Stoic philosophy",
+      "Wanting academic rigor"
+    ],
+    "connections": [
+      "letters-from-a-stoic",
+      "12-rules-for-life",
+      "flow",
+      "mans-search-for-meaning"
+    ],
+    "keyInsight": "Negative visualization \u2014 imagining losing what you have \u2014 is the most powerful gratitude practice ever invented.",
+    "bjornSays": "The best gateway drug to Stoicism. Irvine makes 2000-year-old philosophy feel like a conversation with a smart friend.",
+    "tags": [
+      "philosophy",
+      "stoicism",
+      "self-improvement",
+      "practical"
+    ],
+    "asin": "0195374614",
+    "amazonUrl": "https://www.amazon.com/dp/0195374614?tag=poorbjorn-20"
+  },
+  {
+    "id": "letters-from-a-stoic",
+    "title": "Letters from a Stoic",
+    "author": "Seneca",
+    "year": 65,
+    "rating": 5,
+    "themes": [
+      "stoicism",
+      "death",
+      "virtue",
+      "wealth",
+      "friendship",
+      "wisdom",
+      "time"
+    ],
+    "worldview": "Philosophy isn't academic \u2014 it's the practice of living well and dying well.",
+    "emotionalTone": [
+      "wise",
+      "intimate",
+      "timeless",
+      "grounding"
+    ],
+    "difficulty": "moderate",
+    "pageCount": 254,
+    "bestFor": [
+      "Primary source Stoicism",
+      "Wisdom on death and mortality",
+      "Anyone wanting timeless life advice",
+      "After reading A Guide to the Good Life"
+    ],
+    "notFor": [
+      "Wanting modern, structured self-help",
+      "Difficulty with older writing styles"
+    ],
+    "connections": [
+      "a-guide-to-the-good-life",
+      "the-denial-of-death",
+      "mans-search-for-meaning"
+    ],
+    "keyInsight": "We suffer more in imagination than in reality. Most of what we fear never comes to pass.",
+    "bjornSays": "Seneca was the original self-help author \u2014 2000 years ago. These letters feel like they were written yesterday.",
+    "tags": [
+      "philosophy",
+      "stoicism",
+      "classic",
+      "ancient",
+      "letters"
+    ],
+    "asin": "0140442103",
+    "amazonUrl": "https://www.amazon.com/dp/0140442103?tag=poorbjorn-20"
+  },
+  {
+    "id": "demian",
+    "title": "Demian",
+    "author": "Hermann Hesse",
+    "year": 1919,
+    "rating": 4,
+    "themes": [
+      "individuation",
+      "light and dark",
+      "self-discovery",
+      "coming of age",
+      "Jungian",
+      "duality"
+    ],
+    "worldview": "The bird fights its way out of the egg. The egg is the world. Becoming yourself requires destroying your old self.",
+    "emotionalTone": [
+      "mystical",
+      "intense",
+      "transformative",
+      "dreamlike"
+    ],
+    "difficulty": "moderate",
+    "pageCount": 171,
+    "bestFor": [
+      "Young adults searching for identity",
+      "Jungian psychology through fiction",
+      "Understanding the shadow self",
+      "After reading Siddhartha"
+    ],
+    "notFor": [
+      "Wanting clear, practical takeaways",
+      "Preferring realist fiction"
+    ],
+    "connections": [
+      "stoner",
+      "notes-from-underground",
+      "spiral-dynamics"
+    ],
+    "keyInsight": "The mark of Cain isn't a curse \u2014 it's the mark of someone brave enough to think differently.",
+    "bjornSays": "Hesse captures what it feels like to outgrow the world you were raised in. Short, intense, unforgettable.",
+    "tags": [
+      "fiction",
+      "philosophy",
+      "coming-of-age",
+      "classic",
+      "short"
+    ],
+    "asin": "0060931914",
+    "amazonUrl": "https://www.amazon.com/dp/0060931914?tag=poorbjorn-20"
+  },
+  {
+    "id": "the-courage-to-be-disliked",
+    "title": "The Courage to Be Disliked",
+    "author": "Ichiro Kishimi & Fumitake Koga",
+    "year": 2013,
+    "rating": 4,
+    "themes": [
+      "Adlerian psychology",
+      "freedom",
+      "approval",
+      "tasks of life",
+      "courage",
+      "self-acceptance"
+    ],
+    "worldview": "All problems are interpersonal. Freedom means accepting that others may dislike you.",
+    "emotionalTone": [
+      "provocative",
+      "liberating",
+      "conversational",
+      "challenging"
+    ],
+    "difficulty": "accessible",
+    "pageCount": 288,
+    "bestFor": [
+      "People-pleasers learning to set boundaries",
+      "Alternative to Freudian psychology",
+      "Understanding Adler's individual psychology",
+      "Anyone stuck in approval-seeking patterns"
+    ],
+    "notFor": [
+      "Already familiar with Adlerian psychology",
+      "Wanting scientific rigor over philosophy"
+    ],
+    "connections": [
+      "escape-from-freedom",
+      "12-rules-for-life",
+      "the-laws-of-human-nature"
+    ],
+    "keyInsight": "Separation of tasks: what others think of you is their task, not yours. Stop doing other people's homework.",
+    "bjornSays": "This one hit me harder than expected. The dialogue format is unusual but it works. Adler deserves more attention.",
+    "tags": [
+      "psychology",
+      "philosophy",
+      "self-improvement",
+      "dialogue"
+    ],
+    "asin": "1501197274",
+    "amazonUrl": "https://www.amazon.com/dp/1501197274?tag=poorbjorn-20"
+  },
+  {
+    "id": "deep-work",
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "year": 2016,
+    "rating": 4,
+    "themes": [
+      "focus",
+      "productivity",
+      "distraction",
+      "craftsmanship",
+      "attention",
+      "work"
+    ],
+    "worldview": "The ability to focus deeply is becoming rare and therefore increasingly valuable.",
+    "emotionalTone": [
+      "motivating",
+      "practical",
+      "intellectual",
+      "urgent"
+    ],
+    "difficulty": "accessible",
+    "pageCount": 296,
+    "bestFor": [
+      "Anyone struggling with distraction",
+      "Knowledge workers wanting to level up",
+      "Building better work habits",
+      "Understanding the attention economy"
+    ],
+    "notFor": [
+      "Already have strong focus habits",
+      "Looking for quick productivity hacks"
+    ],
+    "connections": [
+      "flow",
+      "atomic-habits",
+      "so-good-they-cant-ignore-you"
+    ],
+    "keyInsight": "Deep work is not a luxury \u2014 it's the new competitive advantage. Shallow work feels productive but isn't.",
+    "bjornSays": "Newport practices what he preaches. This book made me rethink how I structure my creative time.",
+    "tags": [
+      "productivity",
+      "self-improvement",
+      "work",
+      "practical"
+    ],
+    "asin": "1455586692",
+    "amazonUrl": "https://www.amazon.com/dp/1455586692?tag=poorbjorn-20"
+  },
+  {
+    "id": "atomic-habits",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "year": 2018,
+    "rating": 4,
+    "themes": [
+      "habits",
+      "identity",
+      "systems",
+      "improvement",
+      "behavior change",
+      "compounding"
+    ],
+    "worldview": "You don't rise to the level of your goals \u2014 you fall to the level of your systems.",
+    "emotionalTone": [
+      "practical",
+      "encouraging",
+      "clear",
+      "actionable"
+    ],
+    "difficulty": "accessible",
+    "pageCount": 320,
+    "bestFor": [
+      "Building new habits or breaking bad ones",
+      "Understanding behavior change science",
+      "Practical self-improvement starting point",
+      "Anyone who liked Deep Work"
+    ],
+    "notFor": [
+      "Wanting deep philosophical depth",
+      "Already systematic about habits"
+    ],
+    "connections": [
+      "deep-work",
+      "flow",
+      "12-rules-for-life"
+    ],
+    "keyInsight": "Every action is a vote for the type of person you want to become. Focus on identity, not outcomes.",
+    "bjornSays": "The most practical self-improvement book out there. Not groundbreaking philosophy, but it works.",
+    "tags": [
+      "self-improvement",
+      "habits",
+      "practical",
+      "popular"
+    ],
+    "asin": "0735211299",
+    "amazonUrl": "https://www.amazon.com/dp/0735211299?tag=poorbjorn-20"
+  },
+  {
+    "id": "the-bitcoin-standard",
+    "title": "The Bitcoin Standard",
+    "author": "Saifedean Ammous",
+    "year": 2018,
+    "rating": 4,
+    "themes": [
+      "Bitcoin",
+      "money",
+      "Austrian economics",
+      "sound money",
+      "history",
+      "inflation"
+    ],
+    "worldview": "Sound money is the foundation of civilization. Bitcoin is the hardest money ever invented.",
+    "emotionalTone": [
+      "passionate",
+      "intellectual",
+      "provocative",
+      "conviction-driven"
+    ],
+    "difficulty": "moderate",
+    "pageCount": 304,
+    "bestFor": [
+      "Understanding Bitcoin beyond the hype",
+      "History of money and monetary systems",
+      "Austrian economics introduction",
+      "Anyone curious about sound money"
+    ],
+    "notFor": [
+      "Looking for technical blockchain details",
+      "Wanting a balanced/neutral take"
+    ],
+    "connections": [
+      "the-sovereign-individual",
+      "the-beginning-of-infinity",
+      "sapiens"
+    ],
+    "keyInsight": "Money's hardness \u2014 how difficult it is to produce more \u2014 determines whether civilizations thrive or collapse.",
+    "bjornSays": "The first half on monetary history is brilliant. The Bitcoin thesis is compelling. Ammous is opinionated and I respect that.",
+    "tags": [
+      "economics",
+      "Bitcoin",
+      "history",
+      "technology"
+    ],
+    "asin": "1119473861",
+    "amazonUrl": "https://www.amazon.com/dp/1119473861?tag=poorbjorn-20"
+  },
+  {
+    "id": "the-sovereign-individual",
+    "title": "The Sovereign Individual",
+    "author": "James Dale Davidson & Lord William Rees-Mogg",
+    "year": 1997,
+    "rating": 4,
+    "themes": [
+      "technology",
+      "sovereignty",
+      "nation-state",
+      "decentralization",
+      "future",
+      "power"
+    ],
+    "worldview": "Technology is shifting power from nation-states to individuals. The information age will be as disruptive as the printing press.",
+    "emotionalTone": [
+      "visionary",
+      "provocative",
+      "prescient",
+      "ambitious"
+    ],
+    "difficulty": "moderate",
+    "pageCount": 432,
+    "bestFor": [
+      "Understanding the future of nation-states",
+      "Technology and power dynamics",
+      "Pairing with The Bitcoin Standard",
+      "Big-picture thinkers"
+    ],
+    "notFor": [
+      "Wanting short, focused reads",
+      "Skeptical of grand predictions"
+    ],
+    "connections": [
+      "the-bitcoin-standard",
+      "the-beginning-of-infinity",
+      "sapiens"
+    ],
+    "keyInsight": "When technology makes it easy to move wealth and work across borders, governments lose their monopoly on citizens.",
+    "bjornSays": "Written in 1997 and predicted Bitcoin, remote work, and the decline of nation-state power. Eerily accurate.",
+    "tags": [
+      "economics",
+      "technology",
+      "politics",
+      "futurism",
+      "classic"
+    ],
+    "asin": "0684832720",
+    "amazonUrl": "https://www.amazon.com/dp/0684832720?tag=poorbjorn-20"
+  },
+  {
+    "id": "in-the-realm-of-hungry-ghosts",
+    "title": "In the Realm of Hungry Ghosts",
+    "author": "Gabor Mat\u00e9",
+    "year": 2008,
+    "rating": 5,
+    "themes": [
+      "addiction",
+      "trauma",
+      "compassion",
+      "neuroscience",
+      "childhood",
+      "pain"
+    ],
+    "worldview": "Addiction is not a choice or moral failing \u2014 it's a response to pain, rooted in childhood trauma and unmet needs.",
+    "emotionalTone": [
+      "compassionate",
+      "heartbreaking",
+      "revelatory",
+      "humane"
+    ],
+    "difficulty": "moderate",
+    "pageCount": 497,
+    "bestFor": [
+      "Understanding addiction beyond stereotypes",
+      "Trauma-informed perspective on human behavior",
+      "Anyone who loved When the Body Says No",
+      "Healthcare and social workers"
+    ],
+    "notFor": [
+      "Looking for quick self-help fixes",
+      "Uncomfortable with heavy subject matter"
+    ],
+    "connections": [
+      "when-the-body-says-no",
+      "lost-connections",
+      "the-laws-of-human-nature"
+    ],
+    "keyInsight": "The question isn't 'why the addiction?' but 'why the pain?' Every addict is self-medicating an invisible wound.",
+    "bjornSays": "Mat\u00e9 changed how I think about addiction completely. This is compassion backed by neuroscience. Essential reading.",
+    "tags": [
+      "psychology",
+      "addiction",
+      "trauma",
+      "neuroscience",
+      "compassion"
+    ],
+    "asin": "155643880X",
+    "amazonUrl": "https://www.amazon.com/dp/155643880X?tag=poorbjorn-20"
+  },
+  {
+    "id": "shoe-dog",
+    "title": "Shoe Dog",
+    "author": "Phil Knight",
+    "year": 2016,
+    "rating": 4,
+    "themes": [
+      "entrepreneurship",
+      "persistence",
+      "Nike",
+      "business",
+      "memoir",
+      "risk"
+    ],
+    "worldview": "Building something great requires irrational persistence, luck, and the willingness to bet everything.",
+    "emotionalTone": [
+      "inspiring",
+      "honest",
+      "suspenseful",
+      "humble"
+    ],
+    "difficulty": "accessible",
+    "pageCount": 386,
+    "bestFor": [
+      "Best business memoir ever written",
+      "Entrepreneurs and founders",
+      "Understanding what building a company really feels like",
+      "Anyone needing motivation to keep going"
+    ],
+    "notFor": [
+      "Looking for business strategy frameworks",
+      "Wanting a quick read"
+    ],
+    "connections": [
+      "atlas-shrugged",
+      "deep-work",
+      "the-almanack-of-naval-ravikant"
+    ],
+    "keyInsight": "Nike almost died a dozen times. The founding story is messier, scarier, and more human than any business school case study.",
+    "bjornSays": "The best business book I've ever read \u2014 and it barely feels like a business book. Knight is brutally honest about how close Nike came to failing.",
+    "tags": [
+      "memoir",
+      "business",
+      "entrepreneurship",
+      "inspiring"
+    ],
+    "asin": "1501135929",
+    "amazonUrl": "https://www.amazon.com/dp/1501135929?tag=poorbjorn-20"
+  },
+  {
+    "id": "the-moral-animal",
+    "title": "The Moral Animal",
+    "author": "Robert Wright",
+    "year": 1994,
+    "rating": 4,
+    "themes": [
+      "evolutionary psychology",
+      "morality",
+      "Darwin",
+      "human nature",
+      "sex",
+      "status"
+    ],
+    "worldview": "Our moral intuitions aren't divine \u2014 they're evolutionary adaptations shaped by survival and reproduction.",
+    "emotionalTone": [
+      "eye-opening",
+      "intellectual",
+      "humbling",
+      "fascinating"
+    ],
+    "difficulty": "moderate",
+    "pageCount": 467,
+    "bestFor": [
+      "Understanding evolutionary psychology",
+      "Why humans behave the way they do",
+      "Pairing with The Righteous Mind",
+      "Darwin's life as a lens on human nature"
+    ],
+    "notFor": [
+      "Wanting uplifting, feel-good reading",
+      "Uncomfortable with reductionist views of behavior"
+    ],
+    "connections": [
+      "the-righteous-mind",
+      "sapiens",
+      "the-laws-of-human-nature",
+      "determined"
+    ],
+    "keyInsight": "Natural selection designed our brains to deceive ourselves \u2014 we're not the rational creatures we think we are.",
+    "bjornSays": "Wright uses Darwin's own life to illustrate evolutionary psychology. Clever structure, fascinating ideas.",
+    "tags": [
+      "psychology",
+      "evolution",
+      "science",
+      "human-nature"
+    ],
+    "asin": "0679763996",
+    "amazonUrl": "https://www.amazon.com/dp/0679763996?tag=poorbjorn-20"
+  },
+  {
+    "id": "21-lessons-for-the-21st-century",
+    "title": "21 Lessons for the 21st Century",
+    "author": "Yuval Noah Harari",
+    "year": 2018,
+    "rating": 4,
+    "themes": [
+      "technology",
+      "politics",
+      "AI",
+      "religion",
+      "meaning",
+      "future",
+      "liberalism"
+    ],
+    "worldview": "The big challenges of the 21st century \u2014 AI, biotech, fake news \u2014 require new frameworks for thinking about humanity.",
+    "emotionalTone": [
+      "thought-provoking",
+      "accessible",
+      "wide-ranging",
+      "sobering"
+    ],
+    "difficulty": "accessible",
+    "pageCount": 372,
+    "bestFor": [
+      "Big-picture thinking about today's world",
+      "After reading Sapiens",
+      "Understanding AI and tech implications",
+      "Dinner party conversation fuel"
+    ],
+    "notFor": [
+      "Wanting deep dives on single topics",
+      "Already well-read on these issues"
+    ],
+    "connections": [
+      "sapiens",
+      "the-beginning-of-infinity",
+      "the-better-angels-of-our-nature"
+    ],
+    "keyInsight": "In a world of information overload, clarity is power. The hardest skill is knowing what to pay attention to.",
+    "bjornSays": "Not as groundbreaking as Sapiens, but Harari is still one of the best big-picture thinkers writing today.",
+    "tags": [
+      "philosophy",
+      "technology",
+      "politics",
+      "popular",
+      "big-picture"
+    ],
+    "asin": "0525512179",
+    "amazonUrl": "https://www.amazon.com/dp/0525512179?tag=poorbjorn-20"
+  },
+  {
+    "id": "so-good-they-cant-ignore-you",
+    "title": "So Good They Can't Ignore You",
+    "author": "Cal Newport",
+    "year": 2012,
+    "rating": 4,
+    "themes": [
+      "career",
+      "passion",
+      "mastery",
+      "craftsman mindset",
+      "career capital",
+      "work"
+    ],
+    "worldview": "Don't follow your passion \u2014 build rare and valuable skills, and passion will follow.",
+    "emotionalTone": [
+      "contrarian",
+      "practical",
+      "motivating",
+      "grounded"
+    ],
+    "difficulty": "accessible",
+    "pageCount": 304,
+    "bestFor": [
+      "Career changers and job seekers",
+      "Anyone told to 'follow their passion'",
+      "Building a craftsman mindset",
+      "Pairing with Deep Work"
+    ],
+    "notFor": [
+      "Already clear on career direction",
+      "Wanting spiritual/philosophical career guidance"
+    ],
+    "connections": [
+      "deep-work",
+      "flow",
+      "atomic-habits",
+      "shoe-dog"
+    ],
+    "keyInsight": "Passion is a side effect of mastery, not a prerequisite. Get good first \u2014 love follows competence.",
+    "bjornSays": "'Follow your passion' is dangerous advice for most people. Newport's alternative is harder but actually works.",
+    "tags": [
+      "career",
+      "self-improvement",
+      "practical",
+      "contrarian"
+    ],
+    "asin": "1455509124",
+    "amazonUrl": "https://www.amazon.com/dp/1455509124?tag=poorbjorn-20"
+  },
+  {
+    "id": "understanding-human-nature",
+    "title": "Understanding Human Nature",
+    "author": "Alfred Adler",
+    "year": 1927,
+    "rating": 4,
+    "themes": [
+      "individual psychology",
+      "inferiority",
+      "community",
+      "character",
+      "childhood",
+      "social feeling"
+    ],
+    "worldview": "Every person is striving to overcome feelings of inferiority. Understanding this drive is the key to understanding behavior.",
+    "emotionalTone": [
+      "insightful",
+      "clinical",
+      "empathetic",
+      "systematic"
+    ],
+    "difficulty": "moderate",
+    "pageCount": 286,
+    "bestFor": [
+      "Understanding Adlerian psychology from the source",
+      "Why people behave the way they do",
+      "After reading The Courage to Be Disliked",
+      "Psychologists and therapists"
+    ],
+    "notFor": [
+      "Wanting modern, evidence-based psychology",
+      "Looking for easy reading"
+    ],
+    "connections": [
+      "the-courage-to-be-disliked",
+      "escape-from-freedom",
+      "the-laws-of-human-nature",
+      "civilization-and-its-discontents"
+    ],
+    "keyInsight": "The inferiority complex isn't a weakness \u2014 it's the engine of all human striving. The question is whether you strive constructively or destructively.",
+    "bjornSays": "Adler is the forgotten genius of psychology. Freud gets the fame, but Adler understood actual human behavior better.",
+    "tags": [
+      "psychology",
+      "classic",
+      "human-nature",
+      "Adler"
+    ],
+    "asin": "1684220904",
+    "amazonUrl": "https://www.amazon.com/dp/1684220904?tag=poorbjorn-20"
+  },
+  {
+    "id": "ishmael",
+    "title": "Ishmael",
+    "author": "Daniel Quinn",
+    "year": 1992,
+    "rating": 4,
+    "themes": [
+      "civilization",
+      "ecology",
+      "culture",
+      "mythology",
+      "Taker vs Leaver",
+      "sustainability"
+    ],
+    "worldview": "Our civilization operates on a story \u2014 that the world was made for man. That story is killing the planet.",
+    "emotionalTone": [
+      "mind-expanding",
+      "Socratic",
+      "provocative",
+      "ecological"
+    ],
+    "difficulty": "accessible",
+    "pageCount": 263,
+    "bestFor": [
+      "Questioning the assumptions of civilization",
+      "Ecological philosophy",
+      "After reading Sapiens",
+      "Anyone feeling something is fundamentally wrong with modern life"
+    ],
+    "notFor": [
+      "Wanting scientific rigor",
+      "Already deep into environmental philosophy"
+    ],
+    "connections": [
+      "sapiens",
+      "the-beginning-of-infinity",
+      "spiral-dynamics"
+    ],
+    "keyInsight": "We're not living the way we're living because it works \u2014 we're living this way because of a story we've been told since birth.",
+    "bjornSays": "A telepathic gorilla teaches you about civilization. Sounds absurd. It's one of the most perspective-shifting books I've read.",
+    "tags": [
+      "philosophy",
+      "ecology",
+      "fiction",
+      "civilization",
+      "mind-expanding"
+    ],
+    "asin": "0553375407",
+    "amazonUrl": "https://www.amazon.com/dp/0553375407?tag=poorbjorn-20"
+  },
+  {
+    "id": "greenlights",
+    "title": "Greenlights",
+    "author": "Matthew McConaughey",
+    "year": 2020,
+    "rating": 4,
+    "themes": [
+      "memoir",
+      "life lessons",
+      "adventure",
+      "authenticity",
+      "Hollywood",
+      "self-discovery"
+    ],
+    "worldview": "Life is a series of red, yellow, and green lights. With enough perspective, even the red lights become green.",
+    "emotionalTone": [
+      "wild",
+      "authentic",
+      "entertaining",
+      "philosophical"
+    ],
+    "difficulty": "accessible",
+    "pageCount": 304,
+    "bestFor": [
+      "Entertaining memoir with depth",
+      "Light reading that still makes you think",
+      "Understanding an unconventional life philosophy",
+      "After heavy nonfiction"
+    ],
+    "notFor": [
+      "Wanting structured self-help",
+      "Taking celebrity memoirs too seriously"
+    ],
+    "connections": [
+      "shoe-dog",
+      "the-almanack-of-naval-ravikant",
+      "stoner"
+    ],
+    "keyInsight": "Sometimes you have to go through the yellow and red lights to earn the greenlights. Stop trying to skip the hard parts.",
+    "bjornSays": "Way better than it has any right to be. McConaughey is genuinely thoughtful and the stories are insane.",
+    "tags": [
+      "memoir",
+      "entertainment",
+      "life-lessons",
+      "accessible"
+    ],
+    "asin": "0593139135",
+    "amazonUrl": "https://www.amazon.com/dp/0593139135?tag=poorbjorn-20"
+  },
+  {
+    "id": "i-robot",
+    "title": "I, Robot",
+    "author": "Isaac Asimov",
+    "year": 1950,
+    "rating": 4,
+    "themes": [
+      "AI",
+      "robotics",
+      "ethics",
+      "logic",
+      "three laws",
+      "technology",
+      "humanity"
+    ],
+    "worldview": "The relationship between humans and intelligent machines will be defined by the rules we set \u2014 and the loopholes we didn't foresee.",
+    "emotionalTone": [
+      "cerebral",
+      "playful",
+      "prescient",
+      "puzzle-like"
+    ],
+    "difficulty": "accessible",
+    "pageCount": 253,
+    "bestFor": [
+      "Foundation of AI ethics thinking",
+      "Classic science fiction starting point",
+      "Understanding where our AI fears come from",
+      "Short story format \u2014 easy to pick up and put down"
+    ],
+    "notFor": [
+      "Wanting modern hard sci-fi",
+      "Looking for character-driven fiction"
+    ],
+    "connections": [
+      "the-beginning-of-infinity",
+      "21-lessons-for-the-21st-century",
+      "sapiens"
+    ],
+    "keyInsight": "Asimov's Three Laws seem simple and bulletproof \u2014 until they're not. The edge cases are where the real questions live.",
+    "bjornSays": "Written in 1950 and still the best framework for thinking about AI ethics. Asimov saw it all coming.",
+    "tags": [
+      "fiction",
+      "science-fiction",
+      "AI",
+      "classic",
+      "short-stories"
+    ],
+    "asin": "055338256X",
+    "amazonUrl": "https://www.amazon.com/dp/055338256X?tag=poorbjorn-20"
+  },
+  {
+    "id": "the-gulag-archipelago",
+    "title": "The Gulag Archipelago",
+    "author": "Aleksandr Solzhenitsyn",
+    "year": 1973,
+    "rating": 5,
+    "themes": [
+      "totalitarianism",
+      "suffering",
+      "Soviet Union",
+      "human evil",
+      "courage",
+      "truth",
+      "ideology"
+    ],
+    "worldview": "The line between good and evil runs through every human heart. Ideology can turn ordinary people into monsters.",
+    "emotionalTone": [
+      "devastating",
+      "monumental",
+      "angry",
+      "prophetic"
+    ],
+    "difficulty": "challenging",
+    "pageCount": 660,
+    "bestFor": [
+      "Understanding totalitarianism from the inside",
+      "The most important book on the Soviet experiment",
+      "Anyone who thinks ideology is harmless",
+      "After reading 12 Rules for Life"
+    ],
+    "notFor": [
+      "Wanting a light read",
+      "Emotionally fragile periods",
+      "Short attention spans"
+    ],
+    "connections": [
+      "mans-search-for-meaning",
+      "12-rules-for-life",
+      "the-true-believer",
+      "escape-from-freedom"
+    ],
+    "keyInsight": "The camps weren't built by monsters \u2014 they were built by ideologues who believed they were creating utopia.",
+    "bjornSays": "The most important book of the 20th century. If you read one book about what humans are capable of \u2014 and why \u2014 this is it.",
+    "tags": [
+      "history",
+      "politics",
+      "memoir",
+      "classic",
+      "essential",
+      "challenging"
+    ],
+    "asin": "0061253723",
+    "amazonUrl": "https://www.amazon.com/dp/0061253723?tag=poorbjorn-20"
+  },
+  {
+    "id": "stumbling-on-happiness",
+    "title": "Stumbling on Happiness",
+    "author": "Daniel Gilbert",
+    "year": 2006,
+    "rating": 4,
+    "themes": [
+      "happiness",
+      "psychology",
+      "prediction",
+      "cognitive bias",
+      "future",
+      "imagination"
+    ],
+    "worldview": "We're terrible at predicting what will make us happy \u2014 and understanding why is the first step to getting better at it.",
+    "emotionalTone": [
+      "witty",
+      "surprising",
+      "humbling",
+      "entertaining"
+    ],
+    "difficulty": "accessible",
+    "pageCount": 336,
+    "bestFor": [
+      "Understanding why you make bad predictions about your own happiness",
+      "Behavioral psychology introduction",
+      "Light but smart reading",
+      "After reading Thinking Fast and Slow"
+    ],
+    "notFor": [
+      "Wanting practical happiness techniques",
+      "Already deep into behavioral economics"
+    ],
+    "connections": [
+      "flow",
+      "atomic-habits",
+      "the-righteous-mind",
+      "lost-connections"
+    ],
+    "keyInsight": "Your future self is a stranger. The person you're planning for doesn't exist yet \u2014 and won't want what you think they'll want.",
+    "bjornSays": "Gilbert is hilarious and the research is fascinating. You'll never trust your own predictions again.",
+    "tags": [
+      "psychology",
+      "happiness",
+      "science",
+      "accessible",
+      "witty"
+    ],
+    "asin": "1400077427",
+    "amazonUrl": "https://www.amazon.com/dp/1400077427?tag=poorbjorn-20"
   }
 ]
