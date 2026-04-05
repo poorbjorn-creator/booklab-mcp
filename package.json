@@ -1,6 +1,6 @@
 {
   "name": "booklab-mcp",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "BookLab by Bjorn — MCP server for nonfiction book recommendations. 10+ years of human-curated reviews, structured for AI agents.",
   "type": "module",
   "main": "server.js",
@@ -31,7 +31,8 @@
     "type": "git",
     "url": "https://github.com/poorbjorn-creator/booklab-mcp"
   },
-  "homepage": "https://booklabai.pages.dev",
+  "homepage": "https://booklabai.com",
+  "mcpName": "booklab-mcp",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.12.0"
   }
